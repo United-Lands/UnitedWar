@@ -5,6 +5,7 @@ api-version: 1.21
 description: A custom war plugin for United Lands.
 authors: [ Litning11, Theriel_]
 depend: [ Towny ]
+softdepend: [ AngelChestAPI ]
 commands:
   wardebug:
      description: Debugging commands.
